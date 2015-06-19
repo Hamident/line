@@ -1,0 +1,47 @@
+p {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width:980px;
+	margin: auto;
+}
+footer p {
+	color: #FFF;
+	font-weight: lighter;
+	font-size: 14px;
+	padding-top: 15px;
+	float: right;
+	padding-right: 10px;
+}
+
+#content{
+	text-align: center;
+}
+#header {
+	height: 90px;
+	background: #bebebe;
+	width: 100%;
+}
+#header h2 {
+	font-size: 32px;
+	color: #FFF;
+	padding-left: 140px;
+	padding-top: 15px;
+}
+#header .bar {
+	height: 65px;
+	background: #9b9b9b;
+}
+footer {
+	background: #3d485d;
+	height: 50px;
+	width: 100%;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.Clear {
+	clear: both;
+}
